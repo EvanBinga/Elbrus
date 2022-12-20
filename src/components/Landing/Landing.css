@@ -1,0 +1,39 @@
+.banerText{
+    font-weight: 700;
+    font-size: 34px;
+    position: relative;
+    top: 200px;
+}
+
+.tarhun{
+    position: relative;
+    bottom: 140px;
+    right: 130px;
+}
+
+.grassOne{
+    position: relative;
+    left: 1000px;
+    bottom: 280px;
+}
+
+.grassTwo{
+    position: relative;
+    bottom: 40px;
+    left: 90px;
+}
+
+.grassTree{
+    position: relative;
+    bottom: 470px;
+    right: 90px;
+}
+
+.line{
+    width: 600px;
+    height: 3px;
+    background-color: #dedede;
+    position: relative;
+    bottom: 50px;
+    left: 600px;
+}

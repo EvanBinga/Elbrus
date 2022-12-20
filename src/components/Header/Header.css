@@ -1,0 +1,52 @@
+.Header{
+    display: flex;
+}
+
+
+ul{
+    font-size: 15px;
+    display: flex;
+    position: relative;
+    top: 15px;
+
+}
+
+li{
+    text-decoration: none;
+    margin-left: 26px;
+    list-style-type:none ;
+}
+
+li:hover{
+    color: #1946BA;
+    transition: 0.2s;
+    cursor: pointer;
+}
+
+.number{
+    margin-left: 80px;
+    position: relative;
+    top: 15px;
+    left: 30px;
+    cursor: pointer;
+
+}
+
+
+.form{
+    margin-left: 100px;
+    width: 231px;
+    height: 40px;
+    position: relative;
+    top: 20px;
+    background-color: #1946BA;
+    color: white;
+    border: 0;
+}
+
+.form:hover{
+    background-color: white;
+    color: #1946BA;
+    border: 1px solid #1946BA;
+    transition: 0.3s;
+}
